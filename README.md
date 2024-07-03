@@ -1,4 +1,4 @@
-#food deivery application
+#food deivery application using Mern
 <div align='centre'> 
 
 
